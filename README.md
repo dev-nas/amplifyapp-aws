@@ -1,6 +1,6 @@
  
-# hébergement sur le cloud (AWS)
-# amplifyapp 
+# Hébergement sur le cloud (AWS)
+# Amplifyapp 
 
 Déployement de l'application :
 
