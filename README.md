@@ -9,5 +9,5 @@ Déployement de l'application :
 
 Pour plus de personnalisation :
 
-- j'ajoute un nom de domaine personnalisé  et un certificat SSL
-- et je met un mot de passe pour mon site et autres ...
+- J'ajoute un nom de domaine personnalisé  et un certificat SSL
+- Et je met un mot de passe pour mon site et autres ...
